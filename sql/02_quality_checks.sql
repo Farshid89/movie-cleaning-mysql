@@ -1,0 +1,1 @@
+-- 02_quality_checks.sql placeholder
