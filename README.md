@@ -31,11 +31,11 @@ It covers staging, schema normalization, deduplication, text cleanup (CR/LF), fe
 
 **Raw data (before cleaning):**
 
-![Before cleaning](images/before.png)
+![Before cleaning](images/Before.png)
 
 **Cleaned data (after SQL pipeline):**
 
-![After cleaning](images/after.png)
+![After cleaning](images/After.png)
 ## ▶️ How to Run
 1. Load the sample (or your own) data into a table called `movies`.  
 2. Run the cleaning script:
