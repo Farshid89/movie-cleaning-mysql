@@ -27,7 +27,15 @@ It covers staging, schema normalization, deduplication, text cleanup (CR/LF), fe
 - `LICENSE` → MIT License  
 
 ---
+## 📊 Before vs After
 
+**Raw data (before cleaning):**
+
+![Before cleaning](images/before.png)
+
+**Cleaned data (after SQL pipeline):**
+
+![After cleaning](images/after.png)
 ## ▶️ How to Run
 1. Load the sample (or your own) data into a table called `movies`.  
 2. Run the cleaning script:
