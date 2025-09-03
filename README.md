@@ -1,3 +1,7 @@
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+![Portfolio](https://img.shields.io/badge/Project-Portfolio-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 🎬 Movie Dataset Cleaning (MySQL 8.0)
 
 This project demonstrates a **production-minded SQL data cleaning pipeline** applied to a messy movie dataset.  
